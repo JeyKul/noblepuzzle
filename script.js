@@ -1,6 +1,6 @@
 const present = document.getElementById('present');
 const puzzleImage = new Image();
-puzzleImage.src = "./images/n0B7E.0N3U16.jpg"; // Path to your puzzle image
+puzzleImage.src = "./images/564783928475678e98457483904.jpg"; // Path to your puzzle image
 
 let rows, columns;
 if (isMobile()) {
